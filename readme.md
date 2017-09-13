@@ -1,12 +1,5 @@
-#############################################################################
-#####                                                                   #####
-#####        GGGGGGGG	  CCCCC   MM      MM     DDDDDDD    BBBBBBB 	#####
-#####       GG      	 CC       M M    M M     D     DD   B      B   	#####
-#####      GG    GGG	CC        M  M  M  M     D      D   BBBBBBB    	#####
-#####       GG     GG	 CC       M   MM   M     D     DD   B      B   	#####
-#####        GGGGGGG	  CCCCC   M        M     DDDDDDD    BBBBBBB    	#####
-#####                                  for tbc-db, based on GMDB 0.7    #####
-#############################################################################
+GCMDB 0.7.1 for cmangos tbc-db
+based on GMDB 0.7
 
 Milestone 0.7.1:
 
@@ -39,13 +32,5 @@ Solltet ihr auch diese Texte übersetzt haben wollen, so müsst ihr die Datei in
 (Hier ist die spätere Anzeige auf Deutsch clientabhängig: 
 Englischer Client = englische Sprache, deutscher Client = deutsche Sprache)
 
-
-#############################################################################
-#####                                                                   #####
-#####        GGGGGGGG	  CCCCC   MM      MM     DDDDDDD    BBBBBBB 	#####
-#####       GG      	 CC       M M    M M     D     DD   B      B   	#####
-#####      GG    GGG	CC        M  M  M  M     D      D   BBBBBBB    	#####
-#####       GG     GG	 CC       M   MM   M     D     DD   B      B   	#####
-#####        GGGGGGG	  CCCCC   M        M     DDDDDDD    BBBBBBB    	#####
-#####                                  for tbc-db, based on GMDB 0.7    #####
-#############################################################################
+GCMDB 0.7.1 for cmangos tbc-db
+based on GMDB 0.7
