@@ -5,14 +5,14 @@ Milestone 0.7.1:
 
 Wir bieten euch mit jedem Milestone zwei Möglichkeiten eure Datenbank zu patchen!
 
-1. Ersetzen der englischen DB-Einträge: (GMDB_ver_0.7.1 _template.sql)
+1. Ersetzen der englischen DB-Einträge: (/german_only/GMDB_ver_0.7.1 _template.sql)
 ---------------------------------------
 	Jeder englischer DB-Eintrag wird durch einen deutschen ersetzt.
 	Die englische Sprache ist nach dem Patchvorgang nicht mehr verfügbar.
 	Auch Spieler, die z. B. mit einem englischen Client connecten, finden nur die deutsche Sprache vor.
 	
 
-2. Nutzung der "locales_*" Tabellen: (/german_only/GMDB_ver_0.7.1 locales_.sql)
+2. Nutzung der "locales_*" Tabellen: (GMDB_ver_0.7.1 locales_.sql)
 ------------------------------------------
 	Hierbei werden die "locales_*" Tabellen gefüllt!
 	Nach dem Patchvorgang ist es Clientabhängig welche Sprache euch angezeigt wird!
