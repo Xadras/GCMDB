@@ -34,3 +34,13 @@ Englischer Client = englische Sprache, deutscher Client = deutsche Sprache)
 
 GCMDB 0.7.1 for cmangos tbc-db
 based on GMDB 0.7
+
+----
+
+CREDITS:
+
+GMDB-CREW (https://sourceforge.net/projects/gm-db/) & (https://github.com/klark20/gmdb)
+
+und alle anderen die zu diesem tollen Projekt ihren Beitrag geleistet hatten.
+
+DANKE!
